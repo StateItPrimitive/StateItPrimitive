@@ -1,1 +1,1 @@
-* [Curriculum Vitae](https://yablokovinterviewmaterials.github.io/CurriculumVitae/)
+* [Curriculum Vitae](https://yablokov-interview-materials.github.io/curriculum-vitae/)
